@@ -8,3 +8,5 @@ The second dataset: Liver disease detection
 The third dataset: Climate model crash identification
 
 The fourth dataset: Compound classification
+
+The fifth dataset: Vehicle recognition
